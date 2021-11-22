@@ -1,3 +1,3 @@
 # Movie-Review-Sentiment-Analysis
 
-Download Dataset from Kaggle.
+Download Dataset as your preference from Kaggle.
